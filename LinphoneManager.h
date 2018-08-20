@@ -22,7 +22,7 @@
 #import <AudioToolbox/AudioToolbox.h>
 #import <AssetsLibrary/ALAssetsLibrary.h>
 #import <CoreTelephony/CTCallCenter.h>
-
+#import <UIKit/UIKit.h>
 
 #import <sqlite3.h>
 
